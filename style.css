@@ -1,0 +1,17 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.containor{
+    background-color: #aeaeae;
+    min-height: 100vh;
+}
+.content {
+    max-width: 900px;
+    margin: 0 auto;
+}
